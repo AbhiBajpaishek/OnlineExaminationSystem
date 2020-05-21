@@ -1,0 +1,62 @@
+[
+    {
+        "Name":"Anand Singh",
+        "Email":"anand@npgc.com",
+        "ContactNumber":"8745111420",
+        "Role":2
+    },
+    {
+        "Name":"Vivek Anand",
+        "Email":"vivek_26@srmu.in",
+        "ContactNumber":"9936643169",
+        "Role":2
+    },
+    {
+        "Name":"Abhishek Sinha",
+        "Email":"abhi@integraluni.com",
+        "ContactNumber":"9208903684",
+        "Role":2
+    },
+    {
+        "Name":"Rishabh Mishra",
+        "Email":"rishab112@smscollege.com",
+        "ContactNumber":"8381254478",
+        "Role":2
+    },
+    {
+        "Name":"John Rein",
+        "Email":"john1976@christianclg.com",
+        "ContactNumber":"7055212489",
+        "Role":2
+    },
+    {
+        "Name":"Vishambhar Pratap Singh",
+        "Email":"vish_pratap@vidyant.in",
+        "ContactNumber":"9966541215",
+        "Role":2
+    },
+    {
+        "Name":"Adarsh Gupta",
+        "Email":"adarsh@amity.com",
+        "ContactNumber":"9807212399",
+        "Role":2
+    },
+    {
+        "Name":"Vimla Devi",
+        "Email":"vimla@jnpg.in",
+        "ContactNumber":"7420365841",
+        "Role":2
+    },
+    {
+        "Name":"Aachal Tripathi",
+        "Email":"tripathi_aanchal@itcollege.com",
+        "ContactNumber":"7909530210",
+        "Role":2
+    },
+    {
+        "Name":"Niramala Pathal",
+        "Email":"nirmala@bbdcollege.com",
+        "ContactNumber":"9199080245",
+        "Role":2
+    }
+]

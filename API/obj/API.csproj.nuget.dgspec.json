@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj": {}
+    "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj": {
+    "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj",
+        "projectPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\API.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -45,7 +45,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.3, )"
             },
@@ -76,14 +76,14 @@
         }
       }
     },
-    "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj": {
+    "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -113,6 +113,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -134,14 +142,14 @@
         }
       }
     },
-    "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -160,8 +168,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj"
+              "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\abhis\\Angular Projects\\Ignou Project\\Core\\Core.csproj"
               }
             }
           }
