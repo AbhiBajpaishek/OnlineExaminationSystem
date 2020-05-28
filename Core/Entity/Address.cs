@@ -4,7 +4,7 @@ namespace Core.Entity
 {
     public class Address: BaseEntity
     {
-        public int ZipCode { get; set; }   
+        public int PinCode { get; set; }   
         [Required]
         public string AddressLine1 { get; set; } 
         public string AddressLine2 { get; set; }

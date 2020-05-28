@@ -8,7 +8,7 @@ namespace Infrastructure.Config
     {
         public void Configure(EntityTypeBuilder<Applicant> builder)
         {
-            builder.Property(p=>p.Id);
+           
         }
     }
 }

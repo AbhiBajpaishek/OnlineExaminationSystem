@@ -14,18 +14,15 @@ namespace Core.Entity
         public int CourseId { get; set; }
         public Address Address { get; set; }
 
-        [Required]
         public ExaminationCenter ExaminationCenter { get; set; }
-        [Column("CenterPreference_1")]
-        [Required]
-        public int ExaminationCenterId1 { get; set; }
-        [Column("CenterPreference_2")]
-        [Required]
-        public int ExaminationCenterId2 { get; set; }
-       
-        [Column("CenterPreference_3")]
-        [Required]
-        public int ExaminationCenterId3 { get; set; }
+        
+        [ForeignKey("ExaminationCenter_Pref1")]
+         public ExaminationCenter ExaminationCenter_Pref_1 { get; set; }
+         [ForeignKey("ExaminationCenter_Pref2")]
+         public ExaminationCenter ExaminationCenter_Pref_2 { get; set; }
+         [ForeignKey("ExaminationCenter_Pref3")]
+         public ExaminationCenter ExaminationCenter_Pref_3 { get; set; }
+        
 
 
         

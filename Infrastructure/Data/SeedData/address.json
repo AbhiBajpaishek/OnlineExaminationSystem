@@ -1,6 +1,6 @@
 [
     {
-        "Pincode":226001,
+        "PinCode":226001,
         "AddressLine1":" 2nd Floor, Sky Hi Plaza",
         "AddressLine2":"5, Park Rd",
         "Landmark":"Raj Bhavan Colony",
@@ -9,7 +9,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226001,
+        "PinCode":226001,
         "AddressLine1":"Barron Rd",
         "AddressLine2":"Khatkeyana",
         "Landmark":"",
@@ -18,7 +18,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226001,
+        "PinCode":226001,
         "AddressLine1":"2, Rana Pratap Marg",
         "AddressLine2":"Hazratganj",
         "Landmark":"",
@@ -27,7 +27,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226018,
+        "PinCode":226018,
         "AddressLine1":"194, 26, Jagat Narayan Rd",
         "AddressLine2":"Qaisar Bagh",
         "Landmark":"",
@@ -36,7 +36,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226010,
+        "PinCode":226010,
         "AddressLine1":"Malhaur Railway Station Road",
         "AddressLine2":"Gomti Nagar",
         "Landmark":"",
@@ -45,7 +45,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226018,
+        "PinCode":226018,
         "AddressLine1":"Yadav Complex, 49",
         "AddressLine2":"Gautam Buddha Marg",
         "Landmark":"",
@@ -54,7 +54,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226007,
+        "PinCode":226007,
         "AddressLine1":"Gate No. 4 & 5, 7",
         "AddressLine2":"Faizabad Road",
         "Landmark":"",
@@ -63,7 +63,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226028,
+        "PinCode":226028,
         "AddressLine1":"BBD City",
         "AddressLine2":"Faizabad Road",
         "Landmark":"",
@@ -72,7 +72,7 @@
         "Country":"India"
     },
     {
-        "Pincode":226026 ,
+        "PinCode":226026 ,
         "AddressLine1":"Dasauli",
         "AddressLine2":"P.O. Bas-ha Kursi Road",
         "Landmark":"",
@@ -81,7 +81,7 @@
         "Country":"India"
     },
     {
-        "Pincode":225003,
+        "PinCode":225003,
         "AddressLine1":"Village Hadauri",
         "AddressLine2":"Post Tindola",
         "Landmark":"Deva Road",

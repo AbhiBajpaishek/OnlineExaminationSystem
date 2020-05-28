@@ -52,3 +52,4 @@ C:\Users\abhis\Angular Projects\Ignou Project\API\bin\Debug\netcoreapp3.1\Core.d
 C:\Users\abhis\Angular Projects\Ignou Project\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\abhis\Angular Projects\Ignou Project\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\abhis\Angular Projects\Ignou Project\API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\abhis\Angular Projects\Ignou Project\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll

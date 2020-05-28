@@ -58,5 +58,17 @@
         "Email":"nirmala@bbdcollege.com",
         "ContactNumber":"9199080245",
         "Role":2
+    },
+    {
+        "Name":"Abhishek Bajpai",
+        "Email":"abhi_4@admin.com",
+        "ContactNumber":"8604554541",
+        "Role":1
+    },
+    {
+        "Name":"Priya Dixit",
+        "Email":"priya_dixit@admin.com",
+        "ContactNumber":"9652111456",
+        "Role":1
     }
 ]

@@ -17,6 +17,8 @@ namespace Core.Entity
         [Required]
         public int UserId { get; set; } 
         public Address Address { get; set; }
+        [Required]
+        public int AddressId { get; set; }
 
     }
 }

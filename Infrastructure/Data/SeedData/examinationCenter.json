@@ -3,70 +3,70 @@
         "Name":"National Post Graduate College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":1,
+        "UserId":1,
         "AddressId":3
     },
     {
         "Name":"SMS College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":4,
+        "UserId":4,
         "AddressId":1
     },
     {
         "Name":"Christian College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":5,
+        "UserId":5,
         "AddressId":4
     },
     {
         "Name":"Shri Jai Narayan Inter College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":8,
+        "UserId":8,
         "AddressId":2
     },
     {
         "Name":"Amity University",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":7,
+        "UserId":7,
         "AddressId":5
     },
     {
         "Name":"Vidyant Hindu PG College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":6,
+        "UserId":6,
         "AddressId":6
     },
     {
         "Name":"Isabella Thoburn Degree College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":9,
+        "UserId":9,
         "AddressId":7
     },
     {
         "Name":"Babu Banarsi Das College",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":10,
+        "UserId":10,
         "AddressId":8
     },
     {
         "Name":"Shri Ramswaroop Memorial University",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":2,
+        "UserId":2,
         "AddressId":10
     },
     {
         "Name":"Integral University",
         "TotalSeatCount":60,
         "SeatsAlloted":0,
-        "CenterInCharge":3,
+        "UserId":3,
         "AddressId":9
     }
 ]
