@@ -6,6 +6,7 @@ using Core.Entity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Core.Interfaces;
+using Core.Specification;
 
 namespace API.Controllers
 {
@@ -40,11 +41,28 @@ namespace API.Controllers
             return Ok(address);
         }
 
-        [HttpGet]
-        [Route("centers")]
+        // [HttpGet]
+        // [Route("centers")]
         public async Task<ActionResult<List<Address>>> GetExaminationCenters()
         {
             var centers = await _centerRepo.GetAllAsync();
+            return Ok(centers);
+        }
+
+        [HttpGet]
+        [Route("centers")]
+        public async Task<ActionResult<List<ExaminationCenter>>> GetExaminationCentersWithUser()
+        {
+            var spec=new SpecificationWithUser<ExaminationCenter>();
+            var centers = await _centerRepo.GetExaminationCenterWithUsers(spec);
+            return Ok(centers);
+        }
+        [HttpGet]
+        [Route("centers/{id}")]
+        public async Task<ActionResult<List<ExaminationCenter>>> GetExaminationCentersWithUser(int id)
+        {
+            var spec=new SpecificationWithUser<ExaminationCenter>(id);
+            var centers = await _centerRepo.GetExaminationCenterWithUsers(spec);
             return Ok(centers);
         }
 
@@ -54,8 +72,5 @@ namespace API.Controllers
         {
             return Ok(await _repo.GetCourseById(id));
         }
-
-
-
     }
 }
